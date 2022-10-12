@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "21LrH1TAqn6bUGLci305kq7FZNbeNKiH/yShaWLupBQsFnRjgM6Emnnx2hC2nrnJFGLUPdkaccXo2xuRnXixEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shher\\source\\repos\\TelegramBotLunch2\\TelegramBotLunch2\\TelegramBotLunch2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shher\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\shher\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

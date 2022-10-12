@@ -1,0 +1,17 @@
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\bin\Debug\netcoreapp3.1\TelegramBotLunch2.exe
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\bin\Debug\netcoreapp3.1\TelegramBotLunch2.deps.json
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\bin\Debug\netcoreapp3.1\TelegramBotLunch2.runtimeconfig.json
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\bin\Debug\netcoreapp3.1\TelegramBotLunch2.runtimeconfig.dev.json
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\bin\Debug\netcoreapp3.1\TelegramBotLunch2.dll
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\bin\Debug\netcoreapp3.1\TelegramBotLunch2.pdb
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\obj\Debug\netcoreapp3.1\TelegramBotLunch2.csproj.AssemblyReference.cache
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\obj\Debug\netcoreapp3.1\TelegramBotLunch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\obj\Debug\netcoreapp3.1\TelegramBotLunch2.AssemblyInfoInputs.cache
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\obj\Debug\netcoreapp3.1\TelegramBotLunch2.AssemblyInfo.cs
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\obj\Debug\netcoreapp3.1\TelegramBotLunch2.csproj.CoreCompileInputs.cache
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\obj\Debug\netcoreapp3.1\TelegramBotLunch2.csproj.CopyComplete
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\obj\Debug\netcoreapp3.1\TelegramBotLunch2.dll
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\obj\Debug\netcoreapp3.1\TelegramBotLunch2.pdb
+C:\Users\shher\source\repos\TelegramBotLunch2\TelegramBotLunch2\obj\Debug\netcoreapp3.1\TelegramBotLunch2.genruntimeconfig.cache
